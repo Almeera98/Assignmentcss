@@ -1,0 +1,59 @@
+/* banner */
+ .banner{
+    width: 100%;
+ }
+ .banner img{
+    width: 100%;
+ }
+ .brand{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 100px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+ }
+ .brand .contant{
+    text-align: center;
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+ }
+ .box1{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+ }
+ .box1 img{
+    width: 100%;
+  background-color: white;
+}
+#salt{
+    font-family: futurak;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+.brand h1{
+    font-family: inter;
+    font-size: 52px;
+     font-style: normal;
+    font-weight: 400;
+}
+.brand button{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    padding: 20px 40px;
+    color: white;
+    border: 1px solid white;
+    border-radius:50px ;
+}
