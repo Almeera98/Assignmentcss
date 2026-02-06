@@ -1,3 +1,7 @@
+@font-face{
+    font-family:"futurak";
+    src:url(./font/futurak.ttf);
+}
 /* banner */
  .banner{
     width: 100%;
